@@ -1,4 +1,4 @@
-# UIAssets
+# SwiftAssets
 
 A Swift package for reusable SwiftUI components, providing a collection of UI assets to build modern and consistent user interfaces.
 
@@ -27,7 +27,7 @@ To use a component from this package, simply import `UIAssets` and then you can 
 
 ```swift
 import SwiftUI
-import UIAssets
+import SwiftAssets
 
 struct ContentView: View {
     var body: some View {
